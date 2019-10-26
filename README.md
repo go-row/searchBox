@@ -1,0 +1,2 @@
+# searchBox
+Search Box tool.
